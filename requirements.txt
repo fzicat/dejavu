@@ -1,0 +1,12 @@
+rich
+pydantic
+pydantic-settings
+pandas
+vectorbt
+hmmlearn
+statsmodels
+pyarrow
+fastparquet
+python-dotenv
+prompt_toolkit
+yahooquery
